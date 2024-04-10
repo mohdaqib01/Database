@@ -1,0 +1,3 @@
+// I have done this on Codecademy.
+// I have run the query on Codecademy, and the result has been saved into a CSV file(codecademy-mockup-data-output.xlsx).
+// Feel free to let me know if any correction has to be made.
